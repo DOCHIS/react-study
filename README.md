@@ -8,4 +8,4 @@ This document is an example of a collection & production for re-exact study.
 ## Memo
 - 신규 리엑트 앱 만들기 (Create a new react app)  
 npm install -g create-react-app  
-create-react-app (APP NAME)  
+npx create-react-app (app name)
