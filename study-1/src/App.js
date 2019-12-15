@@ -1,13 +1,14 @@
 import React from 'react';
+import Header from './compoents/Header';
+import Clicker from './compoents/Clicker';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>React Clicker</p>
-        <small>References : https://github.com/drminnaar/react-clicker</small>
-      </header>
+      <Header/>
+      <Clicker/>
     </div>
   );
 }
